@@ -8,3 +8,13 @@ C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World
 C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.exe
 C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.pdb
 C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello_World.frmHelloWorld.resources
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello_World.frmHelloWorld.resources
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\thuchanh\GitHub\helloworld\Hello World\Hello World\obj\Debug\Hello World.pdb

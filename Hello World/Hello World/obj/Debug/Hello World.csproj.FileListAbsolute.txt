@@ -1,0 +1,10 @@
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\LC\Documents\contactsapp\contactsapp\ContactsApp\helloworld\Hello World\Hello World\obj\Debug\Hello_World.frmHelloWorld.resources
